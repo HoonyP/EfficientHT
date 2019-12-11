@@ -6,6 +6,7 @@
 +) STL 결과와 비교
 
 - 알고리즘간의 결과 비교를 위하여 occurrence 개수, matching index, 검증 횟수 체크 필요
+: 위의 3가지에 대해서 먼저 확인하고 엑셀에 정리( 파라미터 별로 구분하여 정리 )한뒤, 수행시간 측정 진행
 
 - 환경 : VS2017(EfficientHT), 연구실 Workstation 사양 => summary에 정리하면 됨
 
